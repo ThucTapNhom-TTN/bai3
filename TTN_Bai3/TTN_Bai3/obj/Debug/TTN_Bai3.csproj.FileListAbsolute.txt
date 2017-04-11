@@ -1,0 +1,10 @@
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\bin\Debug\TTN_Bai3.exe.config
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\bin\Debug\TTN_Bai3.exe
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\bin\Debug\TTN_Bai3.pdb
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.csprojResolveAssemblyReference.cache
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.Form1.resources
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.Properties.Resources.resources
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.csproj.GenerateResource.Cache
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.exe
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.pdb
+c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.TrangChủ.resources
