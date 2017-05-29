@@ -8,3 +8,14 @@ c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug
 c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.exe
 c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.pdb
 c:\users\dinhd\documents\visual studio 2013\Projects\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.TrangChủ.resources
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\bin\Debug\TTN_Bai3.exe.config
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.exe
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.pdb
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\bin\Debug\TTN_Bai3.exe
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\bin\Debug\TTN_Bai3.pdb
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.csprojResolveAssemblyReference.cache
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.Form1.resources
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.Properties.Resources.resources
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.QuanLySach.resources
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.TrangChủ.resources
+D:\Duy\Thực tập nhóm_TH13\GHNhom\bai3\TTN_Bai3\TTN_Bai3\obj\Debug\TTN_Bai3.csproj.GenerateResource.Cache
